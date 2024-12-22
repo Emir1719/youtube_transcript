@@ -13,3 +13,4 @@ itsdangerous==2.2.0
 requests==2.31.0
 packaging==24.0
 urllib3==1.26.20
+pip==24.3.1
